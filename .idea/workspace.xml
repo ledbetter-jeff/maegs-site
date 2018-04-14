@@ -1,7 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dfb9e52-db4f-4d09-b8f3-5888845c865c" name="Default" comment="" />
+    <list default="true" id="9dfb9e52-db4f-4d09-b8f3-5888845c865c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/term-site/adventure-tours-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/contact-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/contact-thanks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/event-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/adventure-tours/large/tour-map-large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/adventure-tours/medium/tour-map-medium.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/adventure-tours/small/tour-map-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/events-page/large/gdt-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/events-page/medium/gdt-medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/events-page/original/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/events-page/original/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/events-page/original/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/events-page/original/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/events-page/original/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/events-page/original/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/events-page/original/gdt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/events-page/small/gdt-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/favicon-gw-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/large/11-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/large/13-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/large/14-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/medium/11-medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/medium/13-medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/medium/14-medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/ms-logo-fav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/ms-logo-plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/ms-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/small/11-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/small/13-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/home-page/small/14-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/large/bike-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/large/bike-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/large/bike-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/medium/bike-1-med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/medium/bike-2-med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/medium/bike-3-med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/original/bike-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/original/bike-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/original/bike-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/slider/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/slider/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/slider/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/small/bike-1-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/small/bike-2-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/images/sales-page/small/bike-3-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/reference-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/sales-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/scripts/currentDate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/scripts/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/scripts/hamburger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/scripts/pricing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/scripts/productSpecs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/scripts/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/scripts/toggle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/service-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/styles/large.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/styles/medium.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/styles/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/thanks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/term-site/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-site/scripts/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather-site/styles/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/franklin.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/franklin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/greenville.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/greenville.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/franklin-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/franklin-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/franklin-medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/franklin-medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/franklin-original.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/franklin-original.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/franklin-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/franklin-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/hotday-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/hotday-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/hotday-medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/hotday-medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/hotday-original.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/hotday-original.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/hotday-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/hotday-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/hotday.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/hotday.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/new-franklin/mn-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/new-franklin/mn-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/new-franklin/mn-medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/new-franklin/mn-medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/new-franklin/mn-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/new-franklin/mn-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/new-franklin/mn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/new-franklin/mn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/sunny.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/sunny.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/franklin/sunnyicon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/franklin/sunnyicon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/large/lake-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/large/lake-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/large/mountain-top-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/large/mountain-top-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/large/spooky-tree-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/large/spooky-tree-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/large/stars-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/large/stars-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/large/tree-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/large/tree-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/large/turbines-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/large/turbines-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/large/winter-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/large/winter-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/medium/lake-medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/medium/lake-medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/medium/mountain-top-medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/medium/mountain-top-medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/medium/spooky-tree-medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/medium/spooky-tree-medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/medium/stars-medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/medium/stars-medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/medium/tree-medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/medium/tree-medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/medium/turbines-medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/medium/turbines-medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/medium/winter-medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/medium/winter-medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/original/lake.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/original/lake.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/original/mountain-top.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/original/mountain-top.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/original/spooky-tree.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/original/spooky-tree.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/original/stars.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/original/stars.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/original/tree.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/original/tree.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/original/turbines.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/original/turbines.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/original/winter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/original/winter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/small/lake-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/small/lake-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/small/mountain-top-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/small/mountain-top-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/small/spooky-tree-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/small/spooky-tree-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/small/stars-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/small/stars-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/small/tree-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/small/tree-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/small/turbines-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/small/turbines-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/gallery/small/winter-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/gallery/small/winter-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/greenville/Greenville.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/greenville/Greenville.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/greenville/txg-large.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/greenville/txg-large.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/greenville/txg-medium.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/greenville/txg-medium.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/greenville/txg-small.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/greenville/txg-small.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/greenville/txg.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/greenville/txg.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/home-page/desert-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/home-page/desert-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/home-page/desert-medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/home-page/desert-medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/home-page/desert-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/home-page/desert-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/home-page/desert.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/home-page/desert.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/springfield/or-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/springfield/or-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/springfield/or-medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/springfield/or-medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/springfield/or-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/springfield/or-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/springfield/or.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/springfield/or.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/images/springfield/road.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/images/springfield/road.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/scripts/currentDate.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/scripts/currentDate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/scripts/fData.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/scripts/fData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/scripts/gData.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/scripts/gData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/scripts/hamburger.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/scripts/hamburger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/scripts/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/term-site/scripts/jquery-3.3.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/scripts/rating.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/scripts/rating.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/scripts/sData.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/scripts/sData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/scripts/wu-weather.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/scripts/wu-weather.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/springfield.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/springfield.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/stormcenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/stormcenter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/styles/large.css" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/styles/large.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/styles/largest.css" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/styles/largest.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/styles/medium.css" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/styles/medium.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/styles/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/term-site/styles/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project folder/thanks.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather-site/thanks.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,81 +156,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/css.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="extend.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/extend.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/html.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="franklin.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project folder/franklin.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#2832#2837#1" expanded="true" />
-                <element signature="e#2897#2902#1" expanded="true" />
-                <element signature="e#2966#2971#1" expanded="true" />
-                <element signature="e#3211#3216#1" expanded="true" />
-                <element signature="e#3596#3601#0" expanded="true" />
-                <element signature="e#3651#3656#0" expanded="true" />
-                <element signature="e#3706#3711#0" expanded="true" />
-                <element signature="e#3761#3766#0" expanded="true" />
-                <element signature="e#6311#6317#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -94,47 +176,30 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1680" />
-    <option name="height" value="941" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="482" />
+    <option name="y" value="22" />
+    <option name="width" value="1196" />
+    <option name="height" value="973" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="maegs-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="maegs-site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maegs-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maegs-site" type="462c0819:PsiDirectoryNode" />
-              <item name="project folder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maegs-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maegs-site" type="462c0819:PsiDirectoryNode" />
-              <item name="project folder" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,6 +211,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/term-site" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -161,29 +234,12 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -193,24 +249,13 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -223,17 +268,21 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -241,9 +290,6 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -256,42 +302,48 @@
       <option name="presentableId" value="Default" />
       <updated>1521511585476</updated>
       <workItem from="1521511587964" duration="173000" />
-      <workItem from="1521511817870" duration="7000" />
+      <workItem from="1521511817870" duration="223000" />
+      <workItem from="1521830013875" duration="178000" />
+      <workItem from="1522695282124" duration="54000" />
+      <workItem from="1523733991396" duration="304000" />
+      <workItem from="1523734333036" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180000" />
+    <option name="totallyTimeSpent" value="937000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="941" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26617828" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,18 +352,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/doc/css.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -319,10 +371,7 @@
     <entry file="file://$PROJECT_DIR$/doc/extend.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -330,10 +379,109 @@
     <entry file="file://$PROJECT_DIR$/doc/html.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather-site/franklin.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/css.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/extend.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/html.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather-site/franklin.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/html.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/css.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/extend.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather-site/franklin.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/css.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/extend.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/html.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -342,35 +490,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project folder/franklin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#2832#2837#1" expanded="true" />
-            <element signature="e#2897#2902#1" expanded="true" />
-            <element signature="e#2966#2971#1" expanded="true" />
-            <element signature="e#3211#3216#1" expanded="true" />
-            <element signature="e#3596#3601#0" expanded="true" />
-            <element signature="e#3651#3656#0" expanded="true" />
-            <element signature="e#3706#3711#0" expanded="true" />
-            <element signature="e#3761#3766#0" expanded="true" />
-            <element signature="e#6311#6317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/weather-site/franklin.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/doc/css.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -378,10 +507,7 @@
     <entry file="file://$PROJECT_DIR$/doc/extend.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -389,37 +515,18 @@
     <entry file="file://$PROJECT_DIR$/doc/html.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/weather-site/franklin.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project folder/franklin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#2832#2837#1" expanded="true" />
-            <element signature="e#2897#2902#1" expanded="true" />
-            <element signature="e#2966#2971#1" expanded="true" />
-            <element signature="e#3211#3216#1" expanded="true" />
-            <element signature="e#3596#3601#0" expanded="true" />
-            <element signature="e#3651#3656#0" expanded="true" />
-            <element signature="e#3706#3711#0" expanded="true" />
-            <element signature="e#3761#3766#0" expanded="true" />
-            <element signature="e#6311#6317#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
         </state>
       </provider>
     </entry>
